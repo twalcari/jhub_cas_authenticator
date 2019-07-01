@@ -14,7 +14,7 @@ pamela==0.3.0
 pkg-resources==0.0.0
 python-dateutil==2.6.1
 python-editor==1.0.3
-python-oauth2==1.0.1
+python-oauth2==1.1.1
 requests==2.18.4
 six==1.11.0
 SQLAlchemy==1.2.1
